@@ -1,3 +1,7 @@
 git is a distribute version control tool.
 git is free ADL list.
-interesting but terrible and terrible & you.
+<<<<<<< HEAD
+interesting but terrible.
+=======
+interesting but terrible and you and me.
+>>>>>>> dev
